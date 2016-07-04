@@ -1,0 +1,28 @@
+{
+  "name": "malusita",
+  "version": "1.0.0",
+  "description": "Proyecto con GeoJson",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtornasol512/malusita.git"
+  },
+  "keywords": [
+    "GeoJSON",
+    "leaflet",
+    "foundation"
+  ],
+  "author": "@xtornasol512, @M4lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtornasol512/malusita/issues"
+  },
+  "homepage": "https://github.com/xtornasol512/malusita#readme",
+  "devDependencies": {
+    "foundation-sites": "^6.2.3",
+    "leaflet": "^0.7.7"
+  }
+}
